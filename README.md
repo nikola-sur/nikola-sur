@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikola-sur&theme=onelight)](https://github.com/nikola-sur)
-
-</div>
 
 
 
