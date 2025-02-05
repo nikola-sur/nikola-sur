@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 </div>
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nikola-sur&theme=shadow-orange" alt="GitHub Streak" /></a>
+</p>
+
 
 
 
