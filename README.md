@@ -4,7 +4,7 @@
 
 *My projects: https://github.com/nikola-sur/projects*
 
-I am a Vanier Scholar pursuing a PhD in Statistics at the University of British Columbia under the supervision of Dr. Alexandre Bouchard-Côté and Dr. Trevor Campbell. My research interests include scalable Bayesian inference and machine learning. I am passionate about using data science to solve meaningful real-world problems.
+I am an Applied Scientist II (ML/AI) at Amazon within the Supply Chain Optimization Technologies team. I previously completed my PhD in Statistics at the University of British Columbia as a Vanier Scholar under the supervision of Dr. Alexandre Bouchard-Côté and Dr. Trevor Campbell. My research interests include scalable Bayesian inference and machine learning. More broadly, I am passionate about using data science to solve meaningful real-world problems.
 
 I am also a core contributor and founding member of the Pigeons software project (https://pigeons.run/). If you have a difficult sampling or integration problem, leave me a message and/or check out our software!
 
